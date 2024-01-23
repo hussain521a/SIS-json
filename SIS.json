@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "first_name": "jon",
+        "last_name": "smith",
+        "age": "15",
+        "gender": "male"
+    },
+    {
+        "id": "2",
+        "first_name": "sally",
+        "last_name": "smith",
+        "age": "16",
+        "gender": "female"
+    },
+    {
+        "id": "3",
+        "first_name": "jeff",
+        "last_name": "jones",
+        "age": "17",
+        "gender": "male"
+    }
+]
